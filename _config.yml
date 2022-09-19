@@ -17,7 +17,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Jerry Industries
@@ -36,23 +36,25 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/blog/Jerry_Industries.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
+  name:                <Jerry> <Jin>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Projects
     url:               /example/
-  - title:             Documentation
+  - title:             Blogs
     url:               /docs/
-  - title:             About
+  - title:             Fun stuff
+    url:               /about/
+  - title:             Resume
     url:               /about/
 
 # Add links to the footer.
@@ -80,7 +82,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9.1.6
 
 
 # Customizaton
