@@ -2,7 +2,7 @@
 layout: post
 title: Cricket synchronization with raspberry pi pico
 description: >
-  chirp chirp chirp 
+  chirp chirp chirp :cricket:
 sitemap: false
 hide_last_modified: true
 ---
