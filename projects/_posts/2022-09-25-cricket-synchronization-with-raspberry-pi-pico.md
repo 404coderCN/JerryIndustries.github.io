@@ -2,14 +2,14 @@
 layout: post
 title: Cricket synchronization with raspberry pi pico
 description: >
-  chirp chirp chirp :cricket:
+  chirp chirp chirp 🦗
 sitemap: false
 hide_last_modified: true
 ---
 # Cricket synchronization with raspberry pi pico
 
 ## Background
-Synchronization is a fascinating phenomenon common to a lot of biological systems. One of the most intriguing one can be observed on snowy tree crickets. When you wonder around in the woods or take a night walk in Ithaca, you can always hear these little creatures chirp. Most of the times, our brains filter them out as white noises, but if you pay attention, you will notice they chirp in synchrony. That's already better than some of us who lacks the "music gene"! In a addition to synchronization, snowy tree crickets change the frequency and speed of their chirps as a function of the ambient temperature. On the east coast of the US, you can estimate the temperature outside (in Fahrenheit) by adding 40 to the number of chirps that you count in 15 seconds, so forget about Apple weather, next time, ask a snowy tree cricket for the temperature! This fascinating relationship between cricket chirps and temperature has a name--Dolbear's law.  :cricket:
+Synchronization is a fascinating phenomenon common to a lot of biological systems. One of the most intriguing one can be observed on snowy tree crickets. When you wonder around in the woods or take a night walk in Ithaca, you can always hear these little creatures chirp. Most of the times, our brains filter them out as white noises, but if you pay attention, you will notice they chirp in synchrony. That's already better than some of us who lacks the "music gene"! In a addition to synchronization, snowy tree crickets change the frequency and speed of their chirps as a function of the ambient temperature. On the east coast of the US, you can estimate the temperature outside (in Fahrenheit) by adding 40 to the number of chirps that you count in 15 seconds, so forget about Apple weather, next time, ask a snowy tree cricket for the temperature! This fascinating relationship between cricket chirps and temperature has a name--Dolbear's law.
 
 For this project. my group and I synthesized two artificial crickets using the RP2040 microcontroller.
 
