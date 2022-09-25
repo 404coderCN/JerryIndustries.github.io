@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Cricket synchronization with raspberry pi pico
+image: 
+  path: /assets/img/projects/cricket_top.jpg
 description: >
   chirp chirp chirp 🦗
 sitemap: false
