@@ -1,9 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/grad2.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This is a personal website.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,21 +12,19 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## About this site
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+During my 5+ years at Cornell, I've done some interesting projects and some other crazy stuff. I though it would be fun to share some of these experiences. 
+I jope you'll enjoy them too.
 {:.lead}
 
-1. this list will be replaced by the toc
-{:toc .large-only}
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-Hydejack's cover page on a variety of screen sizes.
+<img src="{{ "/assets/img/blog/grad1.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="My grad photo" />
+
+
 {:.figcaption}
 
-
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
 
 It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 

@@ -1,6 +1,14 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
+url:                   https://404codercn.github.io/   #JerryIndustries.github.io/
+
+# Uncomment and set the "base URL" of your site.
+# When your site is in a subdirectory, set to `/<name of directory>`,
+# with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
+# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
+baseurl:               'JerryIndustries.github.io'  
+
 author1:
   name:              Jerry Jin
   email:             jerrystark102001@gmail.com
