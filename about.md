@@ -48,11 +48,12 @@ Sunrise
 <br>
 
 <div>
-<img align="left" src="{{ "/assets/img/blog/sunset1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="365" height="300"><img align="left" src="{{ "/assets/img/blog/sunset2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="365" height="300"/>
-</div> 
-
+<img align="left" src="{{ "/assets/img/blog/sunset1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="400" height="300"><img align="left" src="{{ "/assets/img/blog/sunset2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="400" height="300"/>
 {:.figcaption}
 Sunsets 
+</div> 
+
+
 
 <br>
 
@@ -85,6 +86,8 @@ Here's the 3 AM calibration
 <div>
 <img align="left" src="{{ "/assets/img/blog/camp.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"><img align="right" src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"/>
 </div> 
+
+<br>
 
 {:.figcaption}
 Camping on the slope, that was not a good sleep...
