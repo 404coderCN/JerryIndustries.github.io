@@ -15,7 +15,7 @@ redirect_from:
 ## About this site
 
 During my 5+ years at Cornell, I've done some interesting projects and some other crazy stuff. I though it would be fun to share some of these experiences. 
-I jope you'll enjoy them too.
+I hope you'll enjoy them too.
 {:.lead}
 
 
@@ -25,17 +25,65 @@ I jope you'll enjoy them too.
 
 {:.figcaption}
 
-Me trying to look badass on graduation day.
+Me trying to look badass on graduation day
 
-> ECEs can do everything! Check out the things I've done —  [projects], [blogs], and [fun_stuff].
-{:.lead}
+<!-- > ECEs can do everything, so I will include other fun stuff in this website other than projects 
+{:.lead} -->
+
+On the technical side, I've completed multiple projects leveraging microcontrollers, such as Arduino nano, Raspberry Pi Pico, Raspberry Pi 4, and FPGAs, and other more software-oriented projects, such as GEMM quantization for NLP. The best part of these projects is the problem-solving process. Being able to brainstorm and try innovative solutions for problems with friends, then see the project come together piece by piece is such an invaluable experience. Of course, there were countless sleepless nights and constant frustrations trying to debug here or there, and not to mention I've gained more than 20 lbs. since freshman year (Stress eating? I'm not sure.). But looking back, all I can think of are the good memories. I was up at 2 AM trying to push an ASIC design through the flow, calibrating a robot car at 3AM in the Philips hallway, and rushed to the lab in my flip-flops at midnight to record the Cadence design for a VLSI lab. But I also saw shooting stars beside the planetarium, camped on the slope with my friend, saw sunsets that were purple, orange, and red, and no language of human could ever describe the magnificence of it, and saw sunrise with the girl of my dreams. So much has happened here, and so much more has yet to come...
 
 
-<!-- ## A Personal Site That Won't Disappear
+<div>
+<img align="left" src="/assets/img/blog/sunrise.jpg" width="250" height="300"><img align="left" src="/assets/img/blog/sunrise2.jpg" width="250" height="300"><img align="left" src="/assets/img/blog/sunrise3.jpg" width="250" height="300">
+</div> 
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+{:.figcaption}
+Sunrise (shot the left one with my girlfriend❤️)
 
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime. -->
+
+<div>
+<img align="left" src="/assets/img/blog/sunset1.jpg" width="250" height="300"><img align="left" src="/assets/img/blog/sunset2.jpg" width="250" height="300">
+</div> 
+
+{:.figcaption}
+Sunsets 
+
+<img src="{{ "/assets/img/blog/flower.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="flowers by Olin library" />
+
+{:.figcaption}
+Flowers by Olin library, spring in Ithaca is just amazing
+
+
+<img src="{{ "/assets/img/blog/slope_embedded.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="working on embedded system HW on the slope" />
+
+{:.figcaption}
+Working on my embedded system lab on the slope
+
+<img src="{{ "/assets/img/blog/bbq.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="bbq by the lake" />
+
+{:.figcaption}
+Lake side barbecue with my friends
+
+<img src="{{ "/assets/img/blog/iot.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="iot food cabinet" />
+
+{:.figcaption}
+Built a smart cabinet for sharing food with people in need 
+
+<img src="{{ "/assets/img/blog/ece3400.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="ece3400" />
+
+{:.figcaption}
+Here's the 3 AM calibration 
+
+<div>
+<img align="left" src="/assets/img/blog/camp.jpg" width="300" height="300"><img align="left" src="/assets/img/blog/camp2.jpg" width="300" height="300">
+</div> 
+
+{:.figcaption}
+Camping on the slope, that was not a good sleep...
+
+<!-- **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+
+Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime. --> -->
 
 <!-- ## Download
 
@@ -54,11 +102,11 @@ A portfolio that's guaranteed to be impressive — no matter what you put into i
 projects --> 
 
 
-## My Resume
+<!-- ## My Resume
 This is my [resume](assets/img/blog/Resume_lightmatter.pdf), feel free to reach out if you're interested!
 <!-- or [PDF](assets/Resume.pdf). -->
 
-[![Resume PDF](assets/img/blog/resume_pic.png)]
+<!-- [![Resume PDF](assets/img/blog/resume_pic.png)] --> 
 
 <!-- [![Resume PDF](assets/img/blog/resume_pic.png){:.lead width="884" height="632" loading="lazy"}][PDF](assets/img/blog/Resume_lightmatter.pdf) -->
 
