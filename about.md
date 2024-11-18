@@ -55,10 +55,10 @@ projects -->
 
 
 ## My Resume
-Please find my resume below, feel free to reach out if you're interested!
+This is my [resume](assets/img/blog/Resume_lightmatter.pdf), feel free to reach out if you're interested!
 <!-- or [PDF](assets/Resume.pdf). -->
 
-[![Resume PDF](assets/img/blog/resume_pic.png)](assets/img/blog/Resume_lightmatter.pdf)
+[![Resume PDF](assets/img/blog/resume_pic.png)]
 
 <!-- [![Resume PDF](assets/img/blog/resume_pic.png){:.lead width="884" height="632" loading="lazy"}][PDF](assets/img/blog/Resume_lightmatter.pdf) -->
 
