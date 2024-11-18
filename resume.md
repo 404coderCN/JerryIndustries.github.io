@@ -1,10 +1,12 @@
 ---
-layout: resume
+layout: about
 title:  Resume
 permalink: /resume/
 description: >
   My resume
 hide_description: true 
+redirect_from:
+  - /download/
 ---
 
 # Resume
