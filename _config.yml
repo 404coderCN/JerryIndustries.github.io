@@ -57,7 +57,7 @@ menu:
   - title:             Fun stuff
     url:               /about/
   - title:             Resume
-    url:               /about/
+    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
