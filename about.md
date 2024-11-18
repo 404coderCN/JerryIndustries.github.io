@@ -49,10 +49,9 @@ Sunrise
 
 <div>
 <img align="left" src="{{ "/assets/img/blog/sunset1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="400" height="300"><img align="left" src="{{ "/assets/img/blog/sunset2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="400" height="300"/>
+</div> 
 {:.figcaption}
 Sunsets 
-</div> 
-
 
 
 <br>
@@ -83,14 +82,22 @@ Built a smart cabinet for sharing food with people in need
 {:.figcaption}
 Here's the 3 AM calibration 
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="{{ "/assets/img/blog/camp.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="camp 1" style="height: 300px;">
+  <img src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="camp 2" style="height: 300px;">
+</div>
+
+<p style="text-align: center;">Camping on the slope, that was not a good sleep...</p>
+
+
+<!-- <div>
 <img align="left" src="{{ "/assets/img/blog/camp.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"><img align="right" src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"/>
 </div> 
 
 <br>
 
 {:.figcaption}
-Camping on the slope, that was not a good sleep...
+Camping on the slope, that was not a good sleep... -->
 
 <br>
 <br>
