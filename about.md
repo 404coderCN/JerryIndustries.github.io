@@ -33,7 +33,7 @@ Me trying to look badass on graduation day
 On the technical side, I've completed multiple projects leveraging microcontrollers, such as Arduino nano, Raspberry Pi Pico, Raspberry Pi 4, and FPGAs, and other more software-oriented projects, such as GEMM quantization for NLP. The best part of these projects is the problem-solving process. Being able to brainstorm and try innovative solutions for problems with friends, then see the project come together piece by piece is such an invaluable experience. Of course, there were countless sleepless nights and constant frustrations trying to debug here or there, and not to mention I've gained more than 20 lbs. since freshman year (Stress eating? I'm not sure.). But looking back, all I can think of are the good memories. I was up at 2 AM trying to push an ASIC design through the flow, calibrating a robot car at 3AM in the Philips hallway, and rushed to the lab in my flip-flops at midnight to record the Cadence design for a VLSI lab. But I also saw shooting stars beside the planetarium, camped on the slope with my friend, saw sunsets that were purple, orange, and red, and no language of human could ever describe the magnificence of it, and saw sunrise with the girl of my dreams. So much has happened here, and so much more has yet to come...
 
 <div>
-<img align="left" src="{{ "/assets/img/blog/sunrise.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="350"><img align="left" src="{{ "/assets/img/blog/sunrise2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="350"><img align="left" src="{{ "/assets/img/blog/sunrise3.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="300">
+<img align="left" src="{{ "/assets/img/blog/sunrise.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="350"><img align="left" src="{{ "/assets/img/blog/sunrise2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="350"><img align="left" src="{{ "/assets/img/blog/sunrise3.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="300"/>
 </div> 
 
 
@@ -46,7 +46,7 @@ Sunrise (shot the left one with my girlfriend❤️)
 
 
 <div>
-<img align="left" src="{{ "/assets/img/blog/sunset1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="364" height="300"><img align="left" src="{{ "/assets/img/blog/sunset2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="365" height="300">
+<img align="left" src="{{ "/assets/img/blog/sunset1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="364" height="300"><img align="left" src="{{ "/assets/img/blog/sunset2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="365" height="300"/>
 </div> 
 
 {:.figcaption}
@@ -79,12 +79,14 @@ Built a smart cabinet for sharing food with people in need
 Here's the 3 AM calibration 
 
 <div>
-<img align="left" src="{{ "/assets/img/blog/camp.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"><img align="left" src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300">
+<img align="left" src="{{ "/assets/img/blog/camp.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"><img align="left" src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="300" height="300"/>
 </div> 
 
 {:.figcaption}
 Camping on the slope, that was not a good sleep...
 
+<br>
+<br>
 <!-- **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime. --> 
