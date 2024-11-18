@@ -88,6 +88,8 @@ Here's the 3 AM calibration
   <img src="{{ "/assets/img/blog/camp2.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="camp 2" style="height: 400px; width: 300;">
 </div>
 
+<br>
+
 {:.figcaption}
 Camping on the slope, that was not a good sleep... 
 <!-- <p style="text-align: center;">Camping on the slope, that was not a good sleep...</p> -->

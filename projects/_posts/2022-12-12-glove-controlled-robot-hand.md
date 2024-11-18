@@ -80,7 +80,7 @@ Our entire robot hand is 3D printed using PLA material. PLA is known for its hig
 <img align="left" src="{{ "/assets/img/projects/hand1.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="300"><img align="left" src="{{ "/assets/img/projects/hand2.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="300"><img align="left" src="{{ "/assets/img/projects/hand3.jpg" | prepend: site.baseurl | prepend: site.url}}" width="270" height="300">
 </div> 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
   <table style="margin: 0 auto; border-collapse: collapse; width: 50%;">
     <tr>
       <th style="border: 1px solid black; padding: 8px;">Part</th>
