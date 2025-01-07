@@ -12,6 +12,6 @@ redirect_from:
 # Resume
 Please find my [resume](assets/img/blog/Resume_lightmatter.pdf) here,feel free to reach out if you're interested!
 
-[![Resume PDF](assets/img/blog/resume_pic.png)]
+![Resume PDF](assets/img/blog/resume_pic.png)
 
 
