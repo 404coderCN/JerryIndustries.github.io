@@ -2,7 +2,7 @@
 layout: post
 title: FPGA Drum Synthesis
 image: 
-  path: /assets/img/projects/robothand_circuit.jpg
+  path: /assets/img/projects/drum.png
 description: >
   We synthesized a 511 x 211 drum on an FPGA!
 sitemap: false
